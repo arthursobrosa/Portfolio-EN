@@ -6,7 +6,7 @@
   <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/arhurPhoto.png" width="400" alt="Arthur Sobrosa image">
 </p>
 
-Hello! My name is <b>Arthur Sobrosa</b> and I'm an <b>iOS developer</b>. I also study computer science at UFRGS -Brazil. I am participating in the 
+Hello! My name is <b>Arthur Sobrosa</b> and I'm an <b>iOS developer</b>. I also study computer science at UFRGS - Brazil. I am participating in the 
 <b>Apple Developer Academy</b> program in Porto Alegre for a year and have been building up knowledge in this area since then.
 
 In 2024, I was one of the winners of the <a href="https://developer.apple.com/swift-student-challenge/">Swift Student Challenge</a>, which awards 350 students
