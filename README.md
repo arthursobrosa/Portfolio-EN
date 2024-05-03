@@ -6,16 +6,16 @@
   <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/arhurPhoto.png" width="400" alt="Arthur Sobrosa image">
 </p>
 
-Olá! Meu nome é <b>Arthur Sobrosa</b> e sou um <b>desenvolvedor iOS</b>. Eu também estudo ciências da computação na UFRGS (Brasil). Participo do
-programa <b>Apple Developer Academy</b> de Porto Alegre há um ano e tenho buscado acumular conhecimentos nessa área desde então.
+Hello! My name is <b>Arthur Sobrosa</b> and I'm an <b>iOS developer</b>. I also study computer science at UFRGS -Brazil. I am participating in the 
+<b>Apple Developer Academy</b> program in Porto Alegre for a year and have been building up knowledge in this area since then.
 
-Em 2024, fui um dos vencedores do <a href="https://developer.apple.com/swift-student-challenge/">Swift Student Challenge</a>, que premia 350 estudantes
-de Swift ao redor do mundo e tal fato tornou-se motivador para que eu continue aprendendo e aprimorando minhas habilidades nessa linguagem.
+In 2024, I was one of the winners of the <a href="https://developer.apple.com/swift-student-challenge/">Swift Student Challenge</a>, which awards 350 students
+of Swift around the world and this pushed me to continue learning and improving my skills in this language.
 
-Tenho familiariedade com <b>SwiftUI</b>, <b>UIKit</b> e alguns outros frameworks nativos, como <b>SpriteKit</b>, <b>GameKit</b>, <b>ARKit</b>, <b>RealityKit</b>, 
-<b>CoreData</b>, <b>CloudKit</b> e <b>Combine</b>.
+I am familiar with <b>SwiftUI</b>, <b>UIKit</b> and some other native frameworks, such as <b>SpriteKit</b>, <b>GameKit</b>, <b>ARKit< /b>, <b>RealityKit</b>,
+<b>CoreData</b>, <b>CloudKit</b> and <b>Combine</b>.
 
-Aqui estão os meus contatos:
+My contacts:
 <p>
   <a href="https://www.linkedin.com/in/arthur-sobrosa-557013207/">LinkedIn</a>
 </p>
@@ -26,7 +26,7 @@ Aqui estão os meus contatos:
   <a href="https://www.wwdcscholars.com/s/804C110F-384C-4679-A1A8-34E42B641DA4/2024">Swift Student Challenge Project</a>
 </p>
 
-Abaixo vou listar alguns dos projetos que participei. Espero que goste!
+Below I will list some of the projects I've participated in. I hope you enjoy!
 
 ---
 
@@ -34,11 +34,11 @@ Abaixo vou listar alguns dos projetos que participei. Espero que goste!
 
 <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tasky.png" width="1000" alt="Imagens do app Tasky">
 
-Tasky é um aplicativo de organização e gerenciamento de tarefas dentro de um ambiente familiar. Os usuários podem criar e atribuir tarefas,
-acumular pontos e utilizá-los para resgatar recompensas. Também é possível criar perfis e adentrar uma família, de forma que todos os integrantes
-possam acompanhar a realização das tarefas de sua casa.
+Tasky is a task organization and management app within a familiar environment. Users can create and assign tasks,
+accumulate points and use them to redeem rewards. It is also possible to create profiles and join a family, so that all members
+can monitor the completion of their household tasks.
 
-### Tecnologias utilizadas: SwiftUI e CloudKit (para armazenar as tarefas e recompensas na nuvem)
+### Technologies: SwiftUI and CloudKit (to store tasks and rewards in the cloud)
 
 ---
 
@@ -48,20 +48,20 @@ possam acompanhar a realização das tarefas de sua casa.
   <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessLogo.PNG" width="400" alt="Logo do app AirChess">
 </p>
 
-AirChess é um aplicativo de xadrez em realidade aumentada disponível para iPhone e VisionPro. Os usuários podem jogar partidas
-multiplayer e se desafiarem no jogo sem a necessidade de ter um tabuleiro real.
+AirChess is an augmented reality chess app available for iPhone and VisionPro. Users can play multiplayer matches
+and challenge themselves in the game without the need of a real board.
 
 
-## Confira a versão para iPhone:
+## Check out the iPhone version:
 
 <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessiPhone.png" width="1000" alt="Imagens de AirChess para iPhone">
 
 
-## E a versão para VisionPro:
+## And the VisionPro version:
 
 <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessVision.png" width="1000" alt="Imagens de AirChess para VisionPro">
 
-### Tecnologias utilizadas: SwiftUI, UIKit, ARKit e RealityKit (para a realidade aumentada no iPhone), RealityKitContent (para espaços imersvios do VisionPro) e GameKit (para o multiplayer)
+### Technologies: SwiftUI, UIKit, ARKit e RealityKit (for iPhone's AR), RealityKitContent (for VisionPro immersive spaces) e GameKit (for multiplayer)
 
 ---
 
@@ -69,12 +69,11 @@ multiplayer e se desafiarem no jogo sem a necessidade de ter um tabuleiro real.
 
 <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tuco-Tuco.png" width="1000" alt="Imagens do app Tuco-Tuco">
 
-<a href="https://apps.apple.com/br/app/the-tuco-tuco/id6481862059?l=en-GB">Tuco-Tuco</a> é um aplicativo interativo para iPhone que visa conscientizar a preservação de um animal da fauna brasileira que
-está ameaçado de extinção. Esse jogo foi responsável por me fazer um dos vencedores do Swift Student Challenge 2024, e, portanto,
-sempre irei guardá-lo com muito carinho!
+<a href="https://apps.apple.com/br/app/the-tuco-tuco/id6481862059?l=en-GB">Tuco-Tuco</a> is an interactive app for iPhone that aims to raise awareness of the preservation of a Brazilian fauna animal that is part of a endangered species. This game was responsible for making me one of the winners of the Swift Student Challenge 2024, and therefore
+I will always cherish it!
 
 <a href="https://www.youtube.com/watch?v=9J21e1M8Oc0">YouTube video</a>
 
-### Tecnologias utilizadas: SwiftUI e Combine (para gerenciar as animações)
+### Technologies: SwiftUI e Combine (to manage the animations)
 
 ---
