@@ -69,7 +69,8 @@ and challenge themselves in the game without the need of a real board.
 
 <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tuco-Tuco.png" width="1000" alt="Imagens do app Tuco-Tuco">
 
-<a href="https://apps.apple.com/br/app/the-tuco-tuco/id6481862059?l=en-GB">Tuco-Tuco</a> is an interactive app for iPhone that aims to raise awareness of the preservation of a Brazilian fauna animal that is part of a endangered species. This game was responsible for making me one of the winners of the Swift Student Challenge 2024, and therefore
+<a href="https://apps.apple.com/br/app/the-tuco-tuco/id6481862059?l=en-GB">Tuco-Tuco</a> is an interactive app for iPhone that raises awareness for a brazilian endangered species. 
+This game was responsible for making me one of the winners of the Swift Student Challenge 2024, and therefore
 I will always cherish it!
 
 <a href="https://www.youtube.com/watch?v=9J21e1M8Oc0">YouTube video</a>
