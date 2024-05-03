@@ -10,7 +10,7 @@ Hello! My name is <b>Arthur Sobrosa</b> and I'm an <b>iOS developer</b>. I also 
 <b>Apple Developer Academy</b> program in Porto Alegre for a year and have been building up knowledge in this area since then.
 
 In 2024, I was one of the winners of the <a href="https://developer.apple.com/swift-student-challenge/">Swift Student Challenge</a>, which awards 350 students
-of Swift around the world and this pushed me to continue learning and improving my skills in this language.
+of Swift around the world and this have pushed me to continue learning and improving my skills in this language.
 
 I am familiar with <b>SwiftUI</b>, <b>UIKit</b> and some other native frameworks, such as <b>SpriteKit</b>, <b>GameKit</b>, <b>ARKit< /b>, <b>RealityKit</b>,
 <b>CoreData</b>, <b>CloudKit</b> and <b>Combine</b>.
