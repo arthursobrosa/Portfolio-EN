@@ -34,7 +34,7 @@ Below I will list some of the projects I've participated in. I hope you enjoy!
 
 <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tasky.png" width="1000" alt="Imagens do app Tasky">
 
-Tasky is a task organization and management app within a familiar environment. Users can create and assign tasks,
+Tasky is a task organization and management app to be used within a familiar environment. Users can create and assign tasks,
 accumulate points and use them to redeem rewards. It is also possible to create profiles and join a family, so that all members
 can monitor the completion of their household tasks.
 
