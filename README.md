@@ -1,6 +1,6 @@
-# Portfólio de Arthur Sobrosa
+# Arthur Sobrosa's Portfolio
 
-## Sobre mim
+## About me
 
 <p align="center">
   <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/arhurPhoto.png" width="400" alt="Arthur Sobrosa image">
