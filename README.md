@@ -23,6 +23,9 @@ My contacts:
   <a href="https://github.com/arthursobrosa">GitHub</a>
 </p>
 <p>
+  <a href="https://github.com/arthursobrosa/Portfolio-EN/blob/main/Curriculum-EN.pdf">Resumé</a>
+</p>
+<p>
   <a href="https://www.wwdcscholars.com/s/804C110F-384C-4679-A1A8-34E42B641DA4/2024">Swift Student Challenge Project</a>
 </p>
 
