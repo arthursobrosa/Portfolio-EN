@@ -35,7 +35,7 @@ Below I will list some of the projects I've participated in. I hope you enjoy!
 
 ## Tasky
 
-<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tasky.png" width="1000" alt="Imagens do app Tasky">
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tasky.png" width="1000" alt="Tasky App images">
 
 Tasky is a task organization and management app to be used within a familiar environment. Users can create and assign tasks,
 accumulate points and use them to redeem rewards. It is also possible to create profiles and join a family, so that all members
@@ -48,7 +48,7 @@ can monitor the completion of their household tasks.
 # AirChess
 
 <p align="center">
-  <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessLogo.PNG" width="400" alt="Logo do app AirChess">
+  <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessLogo.PNG" width="400" alt="AirChess logo">
 </p>
 
 AirChess is an augmented reality chess app available for iPhone and VisionPro. Users can play multiplayer matches
@@ -57,20 +57,32 @@ and challenge themselves in the game without the need of a real board.
 
 ## Check out the iPhone version:
 
-<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessiPhone.png" width="1000" alt="Imagens de AirChess para iPhone">
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessiPhone.png" width="1000" alt="AirChess iPhone images">
 
 
 ## And the VisionPro version:
 
-<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessVision.png" width="1000" alt="Imagens de AirChess para VisionPro">
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessVision.png" width="1000" alt="AirChess VisionPro images">
 
 ### Technologies: SwiftUI, UIKit, ARKit e RealityKit (for iPhone's AR), RealityKitContent (for VisionPro immersive spaces) e GameKit (for multiplayer)
 
 ---
 
+# Bisca 
+
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/biscaiPhone.png" width="1000" alt="Bisca App images">
+
+Bisca is a fun card game where players can challenge each other and play multiplayer games through Game Center. It is also possible to play the singleplayer mode and to share the app experience using FaceTime and Messages via the SharePlay support.
+
+AppStore Link: <a href="https://apps.apple.com/app/bisca/id6502881813">Bisca</a>
+
+### Tecnologias utlizadas: UIKit, GameKit, SpriteKit, View Code
+
+---
+
 # Tuco-Tuco
 
-<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tuco-Tuco.png" width="1000" alt="Imagens do app Tuco-Tuco">
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tuco-Tuco.png" width="1000" alt="Tuco-Tuco App images">
 
 <a href="https://apps.apple.com/br/app/the-tuco-tuco/id6481862059?l=en-GB">Tuco-Tuco</a> is an interactive app for iPhone that raises awareness for a brazilian endangered species. 
 This game was responsible for making me one of the winners of the Swift Student Challenge 2024, and therefore
