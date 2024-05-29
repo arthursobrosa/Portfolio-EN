@@ -54,6 +54,8 @@ can monitor the completion of their household tasks.
 AirChess is an augmented reality chess app available for iPhone and VisionPro. Users can play multiplayer matches
 and challenge themselves in the game without the need of a real board.
 
+AppStore Link: <a href="https://apps.apple.com/app/airchess/id6498967964">AirChess</a>
+
 
 ## Check out the iPhone version:
 
