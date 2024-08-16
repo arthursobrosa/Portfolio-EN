@@ -15,15 +15,17 @@ of Swift around the world and this have pushed me to continue learning and impro
 I am familiar with <b>SwiftUI</b>, <b>UIKit</b> and some other native frameworks, such as <b>SpriteKit</b>, <b>GameKit</b>, <b>ARKit</b>, <b>RealityKit</b>,
 <b>CoreData</b>, <b>CloudKit</b> and <b>Combine</b>.
 
-My contacts:
+I am also a App Development with Swift Certified User:
+<p align="center">
+  <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/CertifiedUser.png" width="400" alt="Certified User Certificate">
+</p>
+
+And those are my contacts:
 <p>
   <a href="https://www.linkedin.com/in/arthur-sobrosa-557013207/">LinkedIn</a>
 </p>
 <p>
   <a href="https://github.com/arthursobrosa">GitHub</a>
-</p>
-<p>
-  <a href="https://github.com/arthursobrosa/Portfolio-EN/blob/main/Curriculum-EN.pdf">Resumé</a>
 </p>
 <p>
   <a href="https://www.wwdcscholars.com/s/804C110F-384C-4679-A1A8-34E42B641DA4/2024">Swift Student Challenge Project</a>
